@@ -79,3 +79,4 @@ A Flask web application is built where users can input weather parameters and ge
 ---
 
 ## 📂 Project Structure
+## live web app:https://forest-fire-prediction-uvts.onrender.com
